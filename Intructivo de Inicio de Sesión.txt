@@ -1,0 +1,9 @@
+usuario admin/root: pablito@gmail.com
+contraseña: 654321
+
+De ahí en mas se tiene acceso total, se puede agregar un nuevo usuario el cual deberá de tener un email valido y real, 
+puesto que al momento de generar dicho usuario en el programa sin importar si el mismo es o no administrador, 
+se generará un usuario y contraseña que serán enviados por email para que este pueda logearse.
+Luego, si se desea ingresar con este nuevo usuario se pone el usuario y contraseña generados, y se da en aceptar.
+Se pedirá una nueva contraseña la cual solo sabe el usuario que ingresa, se actualiza en la base de datos y de ahí en mas
+ya no se te volverá a pedir una nueva contraseña.
